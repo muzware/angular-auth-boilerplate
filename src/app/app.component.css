@@ -1,0 +1,5 @@
+/* Minimal styling */
+:host {
+  display: block;
+  text-align: center;
+}
